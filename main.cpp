@@ -43,15 +43,15 @@ void init()
 
 void setSpheres()
 {
-	center[0].set(-100, 50, 200);
-	center[1].set(-50, -100, 200);
-	center[2].set(50, -150, 100);
-	center[3].set(50, 150, 0);
+	center[0].set(-100, -100, 200);
+	center[1].set(50, -50, 100);
+	center[2].set(-100, 100, 200); 
+	center[3].set(50, 150, 0); 
 
-	spheres[0].set(center[0], 100);
-	spheres[1].set(center[1], 100);
-	spheres[2].set(center[2], 100);
-	spheres[3].set(center[3], 90);
+	spheres[0].set(center[0], 90); 
+	spheres[1].set(center[1], 100); 
+	spheres[2].set(center[2], 100); 
+	spheres[3].set(center[3], 70);
 }
 
 void read()
