@@ -1,9 +1,3 @@
-#pragma once
-//----------------------------------------------
-// Purpose: Phong class definition
-// Author:  John Gauch
-//----------------------------------------------
-
 #include <iostream>
 #include <cmath>
 using namespace std;
