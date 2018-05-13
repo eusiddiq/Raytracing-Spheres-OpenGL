@@ -1,10 +1,5 @@
-//----------------------------------------------
-// Purpose: Phong class implementation
-// Author:  John Gauch
-//----------------------------------------------
-
-#include "classes2.h"
-#include "phong2.h"
+#include "raytrace.h"
+#include "phong.h"
 #include <sstream>
 const bool DEBUG = false;
 
