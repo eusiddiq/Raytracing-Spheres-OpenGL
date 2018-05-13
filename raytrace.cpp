@@ -1,14 +1,4 @@
-//----------------------------------------------
-// Purpose: Definition and implementation of ColorRGB, 
-//          Point3D, Vector3D, Ray3D and Sphere3D classes.
-//
-//    These classes have no private variables so
-//    they should be used with care (since there
-//    is no data hiding provided).
-//    
-// Author:  John Gauch
-//----------------------------------------------
-#include "classes2.h"
+#include "raytrace.h"
 
 void ColorRGB::set(float r, float g, float b)
 {
